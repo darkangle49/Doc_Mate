@@ -1,0 +1,8 @@
+huggingface_hub
+tf-keras==2.16.0
+nncf
+optimum.intel
+openvino
+biopython
+gradio
+langchain_community
