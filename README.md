@@ -1,4 +1,4 @@
-##DocMate is and AI chat assistant that answers your medical questions
+## DocMate is and AI chat assistant that answers your medical questions
 
 Inspiration for this project is that people often have few minor symptoms they are facing, while they doesn't want to visit doctor directly they may go to search engines to get any info. The most of the top suggestions suggested by these search engines are very much categorized to dangerous disease which may worry user. My application was specifically designed to address this issue.
 ## What it does
