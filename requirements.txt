@@ -6,3 +6,9 @@ openvino
 biopython
 gradio
 langchain_community
+
+# Additional common dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+torch>=2.0.0
+transformers>=4.30.0
