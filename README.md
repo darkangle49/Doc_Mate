@@ -14,6 +14,14 @@ I have considered intent based classification for user's input which helps to ma
 - Hugging Face account
 - Access to Gemma 2B-it model (gated repository)
 - Python environment with required packages from requirements.txt
+  ## Installation
+
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
+```
+  
 Steps To Test the Application
 1) Login through Hugging Face to initially access the models using access_token
 2) Make sure you have access to Gemma 2B_it which is a gated repo
