@@ -27,4 +27,8 @@ Steps To Test the Application
 2) Make sure you have access to Gemma 2B_it which is a gated repo
 3) Once these requirements are checked you can run each cell in .ipynb file
 4) The last cell with demo.launch(share=True) launches the application with public URL associated with it which can be uitilized for further testing
+
+For a mere simple Q & A it will use INT 8 for faster inferences
+For some suggestions or disease identification it uses FP 16
+For a query requesting for recent adavancements it uses PubMed Search for retrieval of information and LLM generates a response using this information
    
